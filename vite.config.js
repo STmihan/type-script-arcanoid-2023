@@ -8,4 +8,5 @@ export default defineConfig(({command, mode, ssrBuild}) => {
       base: `/${repo}/`,
     }
   }
+  return {}
 })
